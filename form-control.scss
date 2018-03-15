@@ -1,9 +1,9 @@
-.form-control.ng-touched {
+.form-control.ng-dirty {
     &.ng-valid {
-        border-left: 4px solid $success;
+        @extend .is-valid;
     }
 
     &.ng-invalid {
-        border-left: 4px solid $danger;
+        @extend .is-invalid;
     }
 }
