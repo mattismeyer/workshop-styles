@@ -7,3 +7,17 @@
         @extend .is-invalid;
     }
 }
+
+.feedback {
+    &-red {
+        @extend .small;
+        @extend .mt-1;
+        @extend .text-danger;
+    }
+    
+    &-green {
+        @extend .small;
+        @extend .mt-1;
+        @extend .text-success;
+    }
+}
