@@ -4,7 +4,6 @@
   "repository": "https://github.com/angular-schule/workshop-styles.git",
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Angular.Schule",
   "contributors": [
