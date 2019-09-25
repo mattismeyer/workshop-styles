@@ -9,13 +9,13 @@
 }
 
 .feedback {
-    &-red {
+    &-error, &-red {
         @extend .small;
         @extend .mt-1;
         @extend .text-danger;
     }
     
-    &-green {
+    &-success, &-green {
         @extend .small;
         @extend .mt-1;
         @extend .text-success;
