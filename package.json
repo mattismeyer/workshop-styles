@@ -1,6 +1,6 @@
 {
   "name": "@mattismeyer/workshop-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/mattismeyer/workshop-styles.git",
   "description": "",
   "scripts": {},
@@ -13,6 +13,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^5.0.0-beta1"
+    "bootstrap": "^4.5.3"
   }
+  
 }
