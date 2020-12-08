@@ -1,19 +1,18 @@
 {
-  "name": "@angular-schule/workshop-styles",
-  "version": "1.3.0",
-  "repository": "https://github.com/angular-schule/workshop-styles.git",
+  "name": "@mattismeyer/workshop-styles",
+  "version": "1.0.0",
+  "repository": "https://github.com/mattismeyer/workshop-styles.git",
   "description": "",
-  "scripts": {
-  },
-  "author": "Angular.Schule",
+  "scripts": {},
+  "author": "Mattis Meyer",
   "contributors": [
     {
-      "name": "Ferdinand Malcher",
-      "email": "mail@fmalcher.de"
+      "name": "Mattis Meyer",
+      "email": "mattismeyer@gmx.de"
     }
   ],
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.0.0"
+    "bootstrap": "^5.0.0-beta1"
   }
 }

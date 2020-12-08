@@ -10,6 +10,7 @@ button[disabled] {
     }
 
     &green {
+        color: #00965f;
         @extend .btn;
         @extend .mr-2;
         @extend .btn-success;
