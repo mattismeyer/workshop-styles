@@ -2,12 +2,9 @@ button[disabled] {
     cursor: not-allowed;
 }
 
+
+
 .btn- {
-    &ld {
-        color: #00965f;
-        @extend .btn;
-        @extend .mr-2;
-    }
 
     &red {
         @extend .btn;
